@@ -1,0 +1,26 @@
+
+
+tr.card {
+    border-bottom: 1pt;
+    border-bottom-color: gray;
+    padding: 50px;
+  }
+
+  td.odd_row  { background-color: #E6E6E6;
+                border-bottom: 1pt;
+                border-bottom-color: gray;
+                vertical-align: middle                ;
+              }
+
+  td.even_row { background-color: #f6f6f6;
+                vertical-align: middle;
+                border: 1pt ;
+                border-bottom: 1pt;
+                border-bottom-color: gray;
+              }
+
+  
+.cardShadow {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    text-align: center;    
+}
